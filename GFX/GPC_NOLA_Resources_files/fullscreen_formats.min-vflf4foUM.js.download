@@ -1,0 +1,2 @@
+define(["require","exports","tslib","react","metaserver/static/js/campaigns/campaign_formats/index_new"],(function(e,t,r,a,s){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.FullscreenFormats=void 0,a=r.__importDefault(a);t.FullscreenFormats=()=>a.default.createElement(s.CampaignSlot,{slotId:"fullscreen_overlay"})}));
+//# sourceMappingURL=fullscreen_formats.min.js-vflNzIztF.map
